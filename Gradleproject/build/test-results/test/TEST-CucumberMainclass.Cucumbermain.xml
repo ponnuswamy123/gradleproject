@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CucumberMainclass.Cucumbermain" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-10-22T11:43:19" hostname="FULL410-WIN" time="45.606">
+  <properties/>
+  <testcase name="feature[0](Login to Form Creature)" classname="CucumberMainclass.Cucumbermain" time="27.154"/>
+  <testcase name="feature[1](Fetch FC Account)" classname="CucumberMainclass.Cucumbermain" time="18.45"/>
+  <system-out><![CDATA[Browser is opened successfully
+View in :
+]]></system-out>
+  <system-err><![CDATA[Oct 22, 2018 5:13:19 PM com.relevantcodes.extentreports.ExtentReports loadConfig
+WARNING: Unable to perform report configuration. The file C:\Users\User\git\gradle\Gradleproject\extent-config.xml was not found.
+Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 16950
+Only local connections are allowed.
+]]></system-err>
+</testsuite>
